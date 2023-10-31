@@ -27,18 +27,6 @@ function App() {
       <Skiils />
       <ContactMe />
       <CopyRight />
-
-      <div className='mt-10 border flex justify-between w-[98%] mx-auto px-5 py-5 bg-blue-400'>
-          <div className='flex'>
-           <button className='border border-black rounded-lg'><BiSolidRightArrow/></button>
-           <div className='ml-2'>Root</div>
-           </div>
-
-           <div className='border border-black rounded-lg'>
-            <button>Add Child</button>
-           </div> 
-
-      </div>
     </div>
   );
 }
