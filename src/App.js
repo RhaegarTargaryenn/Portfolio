@@ -8,7 +8,7 @@ import ContactMe from './components/ContactMe';
 import CopyRight from './components/CopyRight';
 import 'aos/dist/aos.css';
 import AOS from 'aos';
-import {BiSolidRightArrow} from 'react-icons/bi';
+
 
 function App() {
   useEffect(() => {
