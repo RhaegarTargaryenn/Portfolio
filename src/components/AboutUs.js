@@ -35,8 +35,8 @@ function AboutUs() {
 
       <div className='lg:flex lg:flex-row md:flex md:flex-col md:justify-center md:items-center sm:flex sm:flex-col sm:justify-center sm:items-center flex flex-col justify-center items-center lg:justify-between lg:mt-16 md:mt-10 sm:mt-10 mt-10'>
         <div className='bg-white md:w-[270px] md:h-[420px] sm:w-[270px] sm:h-[420px] w-[248px] h-[400px]  lg:w-[270px] lg:h-[450px] xl:ml-[70px] md:ml-[40px]  flex flex-col shadow-xl sm:mt-0 mt-6' data-aos="fade-right">
-          <div className='md:pl-[12px] md:pt-3 sm:pl-[12px] sm:pt-3 pl-[8px] pt-3'>
-            <img src={me} className='md:h-[300px] sm:h-[300px] h-[280px]' alt='' />
+          <div className='md:pl-[9px] md:pt-3 sm:pl-[12px] sm:pt-3 pl-[8px] pt-3 border-lime-500'>
+            <img src={me} className='md:h-[250px] sm:h-[250px] h-[230px] rounded-lg' alt='' />
           </div>
 
           <span className='flex pt-10 justify-evenly'>
@@ -67,7 +67,8 @@ function AboutUs() {
           </div>
           <div className='mt-10 pt-3 lg:pl-2 md:pl-[240px] sm:pl-[170px] pl-[60px]  text-white'>
           <a
-  href="https://drive.google.com/file/d/12MCou-PSCclPU24E6Mbe1W2D7kMmoQep/view?usp=sharing"
+  href="https://drive.google.com/file/d/1tkR6kznJhE1mRpIvvI_tqmKEhukZ5OJN/view?usp=drive_link" data-aos="fade-up" 
+  download="My Resume.pdf"
   className='text-white bg-gradient-to-r from-red-400 via-red-500 to-red-600 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-red-300 dark:focus:ring-red-800 shadow-lg shadow-red-500/50 dark:shadow-lg dark:shadow-red-800/80 font-medium rounded-lg text-sm text-center mr-2 mb-2 relative inline-flex items-center justify-center px-10 py-4 overflow-hidden font-mono  tracking-tighter bg-gray-800 group'
 >
   <span className='absolute w-0 h-0 transition-all duration-500 ease-out bg-green-500 rounded-full group-hover:w-56 group-hover:h-56'></span>
