@@ -67,7 +67,7 @@ function AboutUs() {
           </div>
           <div className='mt-10 pt-3 lg:pl-2 md:pl-[240px] sm:pl-[170px] pl-[60px]  text-white'>
           <a
-  href="https://drive.google.com/file/d/1tkR6kznJhE1mRpIvvI_tqmKEhukZ5OJN/view?usp=drive_link" data-aos="fade-up" 
+  href="https://drive.google.com/file/d/1FXunEbZin9c58-Yz2gkkgnTGSAaJ5T2o/view?usp=drive_link" data-aos="fade-up" 
   download="My Resume.pdf"
   className='text-white bg-gradient-to-r from-red-400 via-red-500 to-red-600 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-red-300 dark:focus:ring-red-800 shadow-lg shadow-red-500/50 dark:shadow-lg dark:shadow-red-800/80 font-medium rounded-lg text-sm text-center mr-2 mb-2 relative inline-flex items-center justify-center px-10 py-4 overflow-hidden font-mono  tracking-tighter bg-gray-800 group'
 >
