@@ -1,5 +1,5 @@
 import React , {useEffect} from 'react';
-import IMG-5335 from '../Assests/me.jpg';
+import IMG-5335 from '../Assests/IMG-5335.jpg';
 import react from '../Assests/react.png';
 import express from '../Assests/express.png';
 import tailwind from '../Assests/tailwind.png';
