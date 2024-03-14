@@ -60,8 +60,7 @@ function AboutUs() {
               </h1>
               <p className='text-[10px] pl-10 pt-6 text-black font-semibold pr-2'>
                 <span className='text-yellow-300 text-[14px]'><PiHandWavingFill /></span>
-                Hello! I'm Shubham Rana, a passionate Front-End Developer based in Faridabad. With a keen eye for detail and a love for crafting beautiful
-                 user experiences, I enjoy turning ideas into interactive and responsive websites. My journey in web development began with curiosity and a desire to bring creativity to life through code.
+                Hello! I'm Shubham Rana, a passionate Full Stack Developer and Data Scientist based in Faridabad. With a keen eye for detail and a love for crafting beautiful user experiences, I enjoy turning ideas into interactive and responsive websites, as well as analyzing data to derive meaningful insights. My journey in web development and data science began with curiosity and a desire to bring creativity to life through code and statistical analysis
               </p>
             </div>
           </div>
