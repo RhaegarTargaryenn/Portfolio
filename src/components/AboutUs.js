@@ -35,7 +35,7 @@ function AboutUs() {
 
       <div className='lg:flex lg:flex-row md:flex md:flex-col md:justify-center md:items-center sm:flex sm:flex-col sm:justify-center sm:items-center flex flex-col justify-center items-center lg:justify-between lg:mt-16 md:mt-10 sm:mt-10 mt-10'>
         <div className='bg-white md:w-[270px] md:h-[420px] sm:w-[270px] sm:h-[420px] w-[248px] h-[400px]  lg:w-[270px] lg:h-[450px] xl:ml-[70px] md:ml-[40px]  flex flex-col shadow-xl sm:mt-0 mt-6' data-aos="fade-right">
-          <div className='md:pl-[25px] md:pt-3 sm:pl-[20px] sm:pt-3 pl-[30px] pt-3 border-lime-500'>
+          <div className='md:pl-[32px] md:pt-3 sm:pl-[25px] sm:pt-3 pl-[30px] pt-3 border-lime-500'>
             <img src={myself} className='md:h-[250px] sm:h-[250px] h-[230px] rounded-lg' alt='' />
           </div>
 
