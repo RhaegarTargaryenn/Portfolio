@@ -6,7 +6,7 @@ import {HiOutlineDesktopComputer} from 'react-icons/hi';
 import {FaComputerMouse} from 'react-icons/fa6';
 import {BiSolidKeyboard} from 'react-icons/bi';
 
-const roles = ["Front End Developer", "Back End Developer", "Full Stack Developer"];
+const roles = [ "Data Scientist", "Full Stack Developer"];
 
 const Header = () => {
   const [index, setIndex] = useState(0);
